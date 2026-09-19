@@ -8,7 +8,7 @@
   "server": {
     "ip": "MinecraftSMP-Pruj.aternos.me",
     "port": 35366,
-    "version": "26.3",
+    "version": "false",
     "try-creative": false
   },
   "position": {
