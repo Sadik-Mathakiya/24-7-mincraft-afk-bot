@@ -8,11 +8,11 @@
   "server": {
     "ip": "MinecraftSMP-Pruj.aternos.me",
     "port": 35366,
-    "version": "false",
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
